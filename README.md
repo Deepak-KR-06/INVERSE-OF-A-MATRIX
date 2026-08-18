@@ -1,4 +1,4 @@
-# Exp 2 - INVERSE-OF-A-MATRIX
+# Exp 3 - INVERSE-OF-A-MATRIX
 ### Developed by : Deepak K R
 ### RegisterNumber : 212225040057
 
